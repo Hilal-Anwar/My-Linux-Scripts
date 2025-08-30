@@ -1,0 +1,8 @@
+Big Bazaar:Akshaya:5
+Item:Category:Qty:Price:Cost
+Trousers:Women/Apparel:2:870:1740
+Shirts:Women/Apparel:1:1350:1350
+Detergent:Household:0.5:270:135
+Tee shirts:Women/Apparel:4:220:880
+Instant Noodles:Canned/Food:3:23:69
+

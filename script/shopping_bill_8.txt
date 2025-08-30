@@ -1,0 +1,8 @@
+Big Bazaar:Advaith:8
+Item:Category:Qty:Price:Cost
+Trousers:Men/Apparel:2:950:1900
+Basa Fish:Meat/Food:1:350:350
+Boxers:Men/Apparel:4:160:640
+Face Wash:Toiletries:1:72:72
+Slippers:Footwear/Apparel:1:170:170
+

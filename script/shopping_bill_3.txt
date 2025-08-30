@@ -1,0 +1,16 @@
+SV Stores:Akshaya:3
+Item:Category:Qty:Price:Cost
+Face Wash:Toiletries:1:89:89
+Shampoo:Toiletries:1:140:140
+Onions:Vegetables/Food:1:98:98
+Bananas:Fruits/Food:4:8:32
+Milk:Dairy/Food:1:24:24
+Biscuits:Packed/Food:2:22:44
+Maggi:Packed/Food:1:85:85
+Horlicks:Packed/Food:1:270:270
+Chips:Packed/Food:1:20:20
+Chocolates:Packed/Food:4:10:40
+Cereal:Packed/Food:1:220:220
+Handwash:Toiletries:1:139:139
+Air freshener:Toiletries:2:70:140
+

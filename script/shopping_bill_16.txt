@@ -1,0 +1,7 @@
+Sun General:Advaith:16
+Item:Category:Qty:Price:Cost
+Pencils:Stationery:2:5:10
+Notebooks:Stationery:4:20:80
+Geometry Box:Stationery:1:72:72
+Graph Book:Stationery:1:25:25
+

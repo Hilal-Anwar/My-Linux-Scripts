@@ -1,0 +1,6 @@
+SV Stores:Ahmed:29
+Item:Category:Qty:Price:Cost
+Chocolates:Packed/Food:1:10:10
+Curd:Dairy/Food:2:32:64
+Bananas:Fruits/Food:4:8:32
+

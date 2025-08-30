@@ -1,0 +1,12 @@
+SV Stores:Abhinav:11
+Item:Category:Qty:Price:Cost
+Chocolates:Packed/Food:1:10:10
+Cereal:Packed/Food:1:220:220
+Bananas:Fruits/Food:6:8:48
+Tomatoes:Vegetables/Food:1:40:40
+Curd:Dairy/Food:1:32:32
+Milk:Dairy/Food:2:24:48
+Horlicks:Packed/Food:1:270:270
+Plates:Household:4:45:180
+Eggs:Food:1:45:45
+

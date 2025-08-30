@@ -1,0 +1,7 @@
+Sun General:Srivatsan:27
+Item:Category:Qty:Price:Cost
+Broom:Household:1:70:70
+Dustpan:Household:1:45:45
+Floor Cleaner:Household:1:125:125
+Tissue Paper:Household:2:50:100
+

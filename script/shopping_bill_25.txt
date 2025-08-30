@@ -1,0 +1,8 @@
+Sun General:Ahmed:25
+Item:Category:Qty:Price:Cost
+Earphones:Electronics:1:210:210
+Phone cover:Accessories:1:140:140
+Dongle:Electronics:1:790:790
+A4 sheets:Stationery:200:1:200
+Ball Pens:Stationery:2:12:24
+

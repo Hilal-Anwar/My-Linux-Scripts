@@ -1,0 +1,11 @@
+SV Stores:Ahmed:20
+Item:Category:Qty:Price:Cost
+Tomatoes:Vegetables/Food:2:40:80
+Curd:Dairy/Food:2:32:64
+Cupcakes:Packed/Food:3:25:75
+Carrots:Vegetables/Food:0.5:50:25
+Onions:Vegetables/Food:1:98:98
+Handwash:Toiletries:1:139:139
+Bananas:Fruits/Food:12:8:96
+Eggs:Food:1:45:45
+

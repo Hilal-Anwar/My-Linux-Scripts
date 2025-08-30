@@ -1,0 +1,7 @@
+Sun General:Srivatsan:6
+Item:Category:Qty:Price:Cost
+Batteries:Utilities:6:14:84
+USB Cable:Electronics:1:85:85
+Ball Pens:Stationery:5:12:60
+Onions:Vegetables/Food:1.25:100:125
+

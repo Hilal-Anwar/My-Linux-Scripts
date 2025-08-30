@@ -1,0 +1,258 @@
+[File: Shopping Bill-01.jpg]
+[File: Shopping Bill-01.jpg]
+Category
+Vegetables/Food
+Toiletries
+Vegetables/Food
+Vegetables/Food
+Footwear/Apparel
+Dairy/Food
+Dairy/Food
+[File: Shopping Bill-02.jpg]
+[File: Shopping Bill-02.jpg]
+Category
+Canned/Food
+Meat/Food
+Canned/Food
+Vegetables/Food
+Apparel
+
+Household
+[File: Shopping Bill-03.jpg]
+[File: Shopping Bill-03.jpg]
+Category
+Toiletries
+Toiletries
+Vegetables/Food
+Fruits/Food
+Dairy/Food
+Packed/Food
+Packed/Food
+Packed/Food
+Packed/Food
+Packed/Food
+Packed/Food
+Toiletries
+
+Toiletries
+[File: Shopping Bill-04.jpg]
+[File: Shopping Bill-04.jpg]
+Category
+Dairy/Food
+Packed/Food
+Food
+[File: Shopping Bill-05.jpg]
+[File: Shopping Bill-05.jpg]
+Category
+Women/Apparel
+Women/Apparel
+
+Household
+Women/Apparel
+Canned/Food
+[File: Shopping Bill-06.jpg]
+[File: Shopping Bill-06.jpg]
+Category
+Utilities
+Electronics
+Stationery
+Vegetables/Food
+[File: Shopping Bill-07.jpg]
+[File: Shopping Bill-07.jpg]
+Category
+Packed/Food
+Packed/Food
+[File: Shopping Bill-08.jpg]
+[File: Shopping Bill-08.jpg]
+Category
+Men/Apparel
+Meat/Food
+Men/Apparel
+Toiletries
+
+Footwear/Apparel
+[File: Shopping Bill-09.jpg]
+[File: Shopping Bill-09.jpg]
+Category
+Chocolate/Food
+Footwear/Apparel
+Vegetables/Food
+Vegetables/Food
+Snacks/Food
+[File: Shopping Bill-10.jpg]
+[File: Shopping Bill-10.jpg]
+Category
+Stationery
+Fruits/Food
+Fruits/Food
+Stationery
+Stationery
+[File: Shopping Bill-11.jpg]
+[File: Shopping Bill-11.jpg]
+Category
+Packed/Food
+Packed/Food
+Fruits/Food
+Vegetables/Food
+Dairy/Food
+Dairy/Food
+Packed/Food
+Household
+
+Food
+[File: Shopping Bill-12.jpg]
+[File: Shopping Bill-12.jpg]
+Category
+Household
+Fruits/Food
+Stationery
+Stationery
+[File: Shopping Bill-13.jpg]
+[File: Shopping Bill-13.jpg]
+Category
+Footwear/Apparel
+Footwear/Apparel
+Footwear/Apparel
+[File: Shopping Bill-14.jpg]
+[File: Shopping Bill-14.jpg]
+Category
+Utilities
+Grooming
+Grooming
+Grooming
+Electronics
+
+Stationery
+[File: Shopping Bill-15.jpg]
+[File: Shopping Bill-15.jpg]
+Category
+Toiletries
+
+Toiletries
+[File: Shopping Bill-16.jpg]
+[File: Shopping Bill-16.jpg]
+Category
+Stationery
+Stationery
+Stationery
+Stationery
+[File: Shopping Bill-17.jpg]
+[File: Shopping Bill-17.jpg]
+Category
+Packed/Food
+Dairy/Food
+Packed/Food
+Packed/Food
+[File: Shopping Bill-18.jpg]
+[File: Shopping Bill-18.jpg]
+Category
+Vegetables/Food
+Dairy/Food
+Packed/Food
+Vegetables/Food
+Vegetables/Food
+Vegetables/Food
+Packed/Food
+Packed/Food
+[File: Shopping Bill-19.jpg]
+[File: Shopping Bill-19.jpg]
+Category
+Vegetables/Food
+Packed/Food
+Packed/Food
+Cosmetics
+
+Dairy/Food
+[File: Shopping Bill-20.jpg]
+[File: Shopping Bill-20.jpg]
+Category
+Vegetables/Food
+Dairy/Food
+Packed/Food
+Vegetables/Food
+Vegetables/Food
+Toiletries
+Fruits/Food
+Food
+[File: Shopping Bill-21.jpg]
+[File: Shopping Bill-21.jpg]
+Category
+Dairy/Food
+Dairy/Food
+Dairy/Food
+[File: Shopping Bill-22.jpg]
+[File: Shopping Bill-22.jpg]
+Category
+Utilities
+Vegetables/Food
+Vegetables/Food
+Fruits/Food
+Household
+Fruits/Food
+
+Vegetables/Food
+[File: Shopping Bill-23.jpg]
+[File: Shopping Bill-23.jpg]
+Category
+Vegetables/Food
+Fruits/Food
+Dairy/Food
+Dairy/Food
+Packed/Food
+Packed/Food
+[File: Shopping Bill-24.jpg]
+[File: Shopping Bill-24.jpg]
+Category
+Dairy/Food
+Packed/Food
+[File: Shopping Bill-25.jpg]
+[File: Shopping Bill-25.jpg]
+Category
+Electronics
+Accessories
+Electronics
+Stationery
+Stationery
+[File: Shopping Bill-26.jpg]
+[File: Shopping Bill-26.jpg]
+Category
+Vegetables/Food
+Packed/Food
+Vegetables/Food
+Fruits/Food
+Dairy/Food
+Dairy/Food
+[File: Shopping Bill-27.jpg]
+[File: Shopping Bill-27.jpg]
+Category
+Household
+Household
+Household
+
+Household
+[File: Shopping Bill-28.jpg]
+[File: Shopping Bill-28.jpg]
+Category
+
+Toiletries
+
+Toiletries
+Packed/Food
+Packed/Food
+Packed/Food
+
+Toiletries
+[File: Shopping Bill-29.jpg]
+[File: Shopping Bill-29.jpg]
+Category
+Packed/Food
+Dairy/Food
+Fruits/Food
+[File: Shopping Bill-30.jpg]
+[File: Shopping Bill-30.jpg]
+Category
+Vegetables/Food
+Meat/Food
+Meat/Food
+Vegetables/Food
+Meat/Food

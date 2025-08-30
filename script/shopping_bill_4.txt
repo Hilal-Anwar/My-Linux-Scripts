@@ -1,0 +1,6 @@
+SV Stores:Advaith:4
+Item:Category:Qty:Price:Cost
+Milk:Dairy/Food:2:24:48
+Bread:Packed/Food:1:30:30
+Eggs:Food:1:45:45
+

@@ -1,0 +1,9 @@
+SV Stores:Julia:23
+Item:Category:Qty:Price:Cost
+Carrots:Vegetables/Food:1.5:50:75
+Bananas:Fruits/Food:12:8:96
+Curd:Dairy/Food:3:32:96
+Milk:Dairy/Food:4:24:96
+Cereal:Packed/Food:2:220:440
+Maggi:Packed/Food:1:85:85
+

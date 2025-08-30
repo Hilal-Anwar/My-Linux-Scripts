@@ -1,0 +1,9 @@
+SV Stores:Vignesh:28
+Item:Category:Qty:Price:Cost
+Face Wash:Toiletries:1:89:89
+Shampoo:Toiletries:1:140:140
+Maggi:Packed/Food:1:85:85
+Chips:Packed/Food:1:20:20
+Chocolates:Packed/Food:4:10:40
+Air Freshener:Toiletries:2:70:140
+

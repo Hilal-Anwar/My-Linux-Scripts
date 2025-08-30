@@ -1,0 +1,7 @@
+SV Stores:George:17
+Item:Category:Qty:Price:Cost
+Cereal:Packed/Food:1:220:220
+Milk:Dairy/Food:1:24:24
+Cupcakes:Packed/Food:1:25:25
+Chocolates:Packed/Food:1:10:10
+

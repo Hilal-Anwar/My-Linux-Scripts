@@ -1,0 +1,5 @@
+SV Stores:Akhil:7
+Item:Category:Qty:Price:Cost
+Bread:Packed/Food:1:30:30
+Biscuits:Packed/Food:3:22:66
+

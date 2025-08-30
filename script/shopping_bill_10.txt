@@ -1,0 +1,8 @@
+Sun General:Rajesh:10
+Item:Category:Qty:Price:Cost
+Notebooks:Stationery:3:20:60
+Apples:Fruits/Food:6:24:144
+Pears:Fruits/Food:4:30:120
+Chart Paper:Stationery:2:22:44
+Ruler:Stationery:1:10:10
+

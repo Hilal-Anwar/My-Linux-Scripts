@@ -1,0 +1,7 @@
+Sun General:Aparna:12
+Item:Category:Qty:Price:Cost
+Mosquito Coil:Household:2:24:48
+Bananas:Fruits/Food:6:5:30
+Ball Pens:Stationery:4:12:48
+Paper Clips:Stationery:1:60:60
+

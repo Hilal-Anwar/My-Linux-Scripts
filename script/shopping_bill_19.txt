@@ -1,0 +1,8 @@
+SV Stores:Neeraja:19
+Item:Category:Qty:Price:Cost
+Carrots:Vegetables/Food:1:50:50
+Horlicks:Packed/Food:1:270:270
+Chips:Packed/Food:1:20:20
+Kajal:Cosmetics:1:180:180
+Milk:Dairy/Food:3:24:72
+

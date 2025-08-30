@@ -1,0 +1,10 @@
+SV Stores:Srivatsan:1
+Item:Category:Qty:Price:Cost
+Carrots:Vegetables/Food:1.5:50:75
+Soap:Toiletries:4:32:128
+Tomatoes:Vegetables/Food:2:40:80
+Bananas:Vegetables/Food:8:8:64
+Socks:Footwear/Apparel:3:56:168
+Curd:Dairy/Food:0.5:32:16
+Milk:Dairy/Food:1.5:24:36
+

@@ -1,0 +1,9 @@
+Big Bazaar:Sudeep:2
+Item:Category:Qty:Price:Cost
+Baked Beans:Canned/Food:1:125:125
+Chicken Wings:Meat/Food:0.5:600:300
+Cocoa powder:Canned/Food:1:160:160
+Capsicum:Vegetables/Food:0.8:180:144
+Tie:Apparel:2:390:780
+Clips:Household:0.5:32:16
+

@@ -1,0 +1,11 @@
+SV Stores:Ahmed:18
+Item:Category:Qty:Price:Cost
+Tomatoes:Vegetables/Food:1:40:40
+Curd:Dairy/Food:1:32:32
+Cupcakes:Packed/Food:2:25:50
+Carrots:Vegetables/Food:1.5:50:75
+Beans:Vegetables/Food:1:45:45
+Onions:Vegetables/Food:0.5:98:49
+Turmeric:Packed/Food:1:82:82
+Ghee:Packed/Food:1:230:230
+

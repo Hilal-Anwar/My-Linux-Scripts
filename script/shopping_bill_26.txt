@@ -1,0 +1,9 @@
+SV Stores:Srivatsan:26
+Item:Category:Qty:Price:Cost
+Beans:Vegetables/Food:1:45:45
+Bread:Packed/Food:1:30:30
+Onions:Vegetables/Food:0.5:98:49
+Bananas:Fruits/Food:6:8:48
+Curd:Dairy/Food:1:32:32
+Milk:Dairy/Food:3:24:72
+

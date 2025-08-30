@@ -1,0 +1,10 @@
+Sun General:Suresh:22
+Item:Category:Qty:Price:Cost
+Batteries:Utilities:2:14:28
+Tomatoes:Vegetables/Food:1.5:80:120
+Spinach:Vegetables/Food:1:15:15
+Bananas:Fruits/Food:4:5:20
+Mosquito coils:Household:1:24:24
+Guava:Fruits/Food:0.4:120:48
+Potato:Vegetables/Food:1.5:40:60
+

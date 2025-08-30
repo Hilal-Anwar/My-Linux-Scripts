@@ -1,0 +1,8 @@
+Big Bazaar:Mohith:9
+Item:Category:Qty:Price:Cost
+Lindt:Chocolate/Food:1:125:125
+Socks:Footwear/Apparel:1:120:120
+Spring Onions:Vegetables/Food:0.5:220:110
+Lettuce:Vegetables/Food:0.6:150:90
+Cookies:Snacks/Food:2:75:150
+

@@ -1,0 +1,5 @@
+SV Stores:Neeraja:24
+Item:Category:Qty:Price:Cost
+Milk:Dairy/Food:3:24:72
+Chips:Packed/Food:1:20:20
+

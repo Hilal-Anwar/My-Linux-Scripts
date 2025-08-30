@@ -1,0 +1,6 @@
+SV Stores:Akshaya:21
+Item:Category:Qty:Price:Cost
+Curd:Dairy/Food:0.5:32:16
+Butter:Dairy/Food:0.2:320:64
+Milk:Dairy/Food:2:24:48
+

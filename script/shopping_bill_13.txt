@@ -1,0 +1,6 @@
+Big Bazaar:Abhinav:13
+Item:Category:Qty:Price:Cost
+Shoes:Footwear/Apparel:1:2700:2700
+Polish:Footwear/Apparel:1:120:120
+Socks:Footwear/Apparel:2:120:240
+

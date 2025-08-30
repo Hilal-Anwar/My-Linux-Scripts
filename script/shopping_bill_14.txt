@@ -1,0 +1,9 @@
+Sun General:Vignesh:14
+Item:Category:Qty:Price:Cost
+Phone Charger:Utilities:1:230:230
+Razor Blades:Grooming:1:12:12
+Razor:Grooming:1:45:45
+Shaving Lotion:Grooming:0.8:180:144
+Earphones:Electronics:1:210:210
+Pencils:Stationery:3:5:15
+

@@ -1,0 +1,241 @@
+[File: Shopping Bill-01.jpg]
+[File: Shopping Bill-01.jpg]
+Carrots Vegetables/Food 1.5 50 75
+Soap Toiletries 4 32 128
+Tomatoes Vegetables/Food 2 40 80
+Bananas Vegetables/Food 8 8 64
+Socks Footwear/Apparel 3 56 168
+Curd Dairy/Food 0.5 32 16
+Milk Dairy/Food 1.5 24 36
+[File: Shopping Bill-02.jpg]
+[File: Shopping Bill-02.jpg]
+Baked Beans Canned/Food 1 125 125
+Chicken Wings Meat/Food 0.5 600 300
+Cocoa powder Canned/Food 1 160 160
+Capsicum Vegetables/Food 0.8 180 144
+Tie Apparel 2 390 780
+Clips Household 0.5 32 16
+
+eS
+[File: Shopping Bill-03.jpg]
+[File: Shopping Bill-03.jpg]
+Face Wash Toiletries 1 89 89
+Shampoo Toiletries 1 140 140
+Onions Vegetables/Food 1 98 98
+Bananas Fruits/Food 4 8 32
+Milk Dairy/Food 1 24 24
+Biscuits Packed/Food 2 22 44
+Maggi Packed/Food 1 85 85
+Horlicks Packed/Food 1 270 270
+Chips Packed/Food 1 20 20
+Chocolates Packed/Food 4 10 40
+Cereal Packed/Food 1 220 220
+Handwash Toiletries 1 139 139
+Air freshener Toiletries 2 70 140
+
+1341)
+[File: Shopping Bill-04.jpg]
+[File: Shopping Bill-04.jpg]
+SV Stores Advaith a |
+Item Category Qty Price Cost
+Milk Dairy/Food 2 24 48
+Bread Packed/Food 1 30 30
+Eggs Food 1 45 45
+[File: Shopping Bill-05.jpg]
+[File: Shopping Bill-05.jpg]
+Trousers Women/Apparel 2 870 1740
+Shirts Women/Apparel 1 1350 1350
+Detergent Household 0.5 270 135
+Tee shirts Women/Apparel 4 220 880
+Instant Noodles =Canned/Food 3 23 69
+[File: Shopping Bill-06.jpg]
+[File: Shopping Bill-06.jpg]
+Batteries Utilities 6 14 84
+USB Cable Electronics 1 85 85
+Ball Pens Stationery 5 12 60
+Onions Vegetables/Food 1.25 100 125
+
+| 354)
+[File: Shopping Bill-07.jpg]
+[File: Shopping Bill-07.jpg]
+SV Stores Akhil 7)
+Item Category Qty Price Cost
+Bread Packed/Food 1 30 30
+Biscuits Packed/Food 3 22 66
+[File: Shopping Bill-08.jpg]
+[File: Shopping Bill-08.jpg]
+Trousers Men/Apparel 2 950 1900
+Basa Fish Meat/Food 1 350 350
+Boxers Men/Apparel 4 160 640
+Face Wash Toiletries 1 72 72
+Slippers Footwear/Apparel 1 170 170
+
+3132)
+[File: Shopping Bill-09.jpg]
+[File: Shopping Bill-09.jpg]
+Lindt Chocolate/Food 1 125 125
+Socks Footwear/Apparel 1 120 120
+Spring Onions Vegetables/Food 0.5 220 110
+Lettuce Vegetables/Food 0.6 150 90
+Cookies Snacks/Food 2 75 150
+
+595)
+[File: Shopping Bill-10.jpg]
+[File: Shopping Bill-10.jpg]
+Notebooks Stationery 3 20 60
+Apples Fruits/Food 6 24 144
+Pears Fruits/Food 4 30 120
+Chart Paper Stationery 2 22 44
+Ruler Stationery 1 10 10
+[File: Shopping Bill-11.jpg]
+[File: Shopping Bill-11.jpg]
+Chocolates Packed/Food 1 10 10
+Cereal Packed/Food 1 220 220
+Bananas Fruits/Food 6 8 48
+Tomatoes Vegetables/Food 1 40 40
+Curd Dairy/Food 1 32 32
+Milk Dairy/Food 2 24 48
+Horlicks Packed/Food 1 270 270
+Plates Household 4 45 180
+Eggs Food 1 45 45
+[File: Shopping Bill-12.jpg]
+[File: Shopping Bill-12.jpg]
+Mosquito Coil Household 2 24 48
+Bananas Fruits/Food 6 5 30
+Ball Pens Stationery 4 12 48
+Paper Clips Stationery 1 60 60
+
+|_ 186)
+[File: Shopping Bill-13.jpg]
+[File: Shopping Bill-13.jpg]
+Big Bazaar rave) al Late hY 13)
+Item Category Qty Price Cost
+Shoes Footwear/Apparel 1 2700 2700
+Polish Footwear/Apparel 1 120 120
+Socks Footwear/Apparel 2 120 240
+[File: Shopping Bill-14.jpg]
+[File: Shopping Bill-14.jpg]
+Phone Charger Utilities 1 230 230
+Razor Blades Grooming 1 12 12
+Razor Grooming 1 45 45
+Shaving Lotion Grooming 0.8 180 144
+Earphones Electronics 1 210 210
+Pencils Stationery 3 5 15
+[File: Shopping Bill-15.jpg]
+[File: Shopping Bill-15.jpg]
+Sun General No) al late hY 
+Item Category Qty Price Cost
+Toothpaste Toiletries 1 89 89
+Shampoo Toiletries 1 140 140
+[File: Shopping Bill-16.jpg]
+[File: Shopping Bill-16.jpg]
+Pencils Stationery 2 5 10
+Notebooks Stationery 4 20 80
+Geometry Box Stationery 1 72 72
+Graph Book Stationery 1 25 25
+[File: Shopping Bill-17.jpg]
+[File: Shopping Bill-17.jpg]
+Cereal Packed/Food 1 220 220
+Milk Dairy/Food 1 24 24
+Cupcakes Packed/Food 1 25 25
+Chocolates Packed/Food 1 10 10
+[File: Shopping Bill-18.jpg]
+[File: Shopping Bill-18.jpg]
+Tomatoes Vegetables/Food 1 40 40
+Curd Dairy/Food 1 32 32
+Cupcakes Packed/Food 2 25 50
+Carrots Vegetables/Food 1.5 50 75
+Beans Vegetables/Food 1 45 45
+Onions Vegetables/Food 0.5 98 49
+Turmeric Packed/Food 1 82 82
+Ghee Packed/Food 1 230 230
+[File: Shopping Bill-19.jpg]
+[File: Shopping Bill-19.jpg]
+Carrots Vegetables/Food 1 50 50
+Horlicks Packed/Food 1 270 270
+Chips Packed/Food 1 20 20
+Kajal Cosmetics 1 180 180
+Milk Dairy/Food 3 24 72
+[File: Shopping Bill-20.jpg]
+[File: Shopping Bill-20.jpg]
+Tomatoes Vegetables/Food 2 40 80
+Curd Dairy/Food 2 32 64
+Cupcakes Packed/Food 3 25 75
+Carrots Vegetables/Food 0.5 50 25
+Onions Vegetables/Food 1 98 98
+Handwash Toiletries 1 139 139
+Bananas Fruits/Food 12 8 96
+Eggs Food 1 45 45
+[File: Shopping Bill-21.jpg]
+[File: Shopping Bill-21.jpg]
+SV Stores Akshaya 21)
+Item Category Qty Price Cost
+Curd Dairy/Food 0.5 32 16
+Butter Dairy/Food 0.2 320 64
+Milk Dairy/Food 2 24 48
+[File: Shopping Bill-22.jpg]
+[File: Shopping Bill-22.jpg]
+Batteries Utilities 2 14 28
+Tomatoes Vegetables/Food 1.5 80 120
+Spinach Vegetables/Food 1 15 15
+Bananas Fruits/Food 4 5 20
+Mosquito coils Household 1 24 24
+Guava Fruits/Food 0.4 120 48
+Potato Vegetables/Food 1.5 40 60
+[File: Shopping Bill-23.jpg]
+[File: Shopping Bill-23.jpg]
+Carrots Vegetables/Food 1.5 50 75
+Bananas Fruits/Food 12 8 96
+Curd Dairy/Food 3 32 96
+Milk Dairy/Food 4 24 96
+Cereal Packed/Food 2 220 440
+Maggi Packed/Food 1 85 85
+[File: Shopping Bill-24.jpg]
+[File: Shopping Bill-24.jpg]
+SV Stores Neeraja 24 )
+Item Category Qty Price Cost
+Milk Dairy/Food 3 24 72
+Chips Packed/Food 1 20 20
+[File: Shopping Bill-25.jpg]
+[File: Shopping Bill-25.jpg]
+Earphones Electronics 1 210 210
+Phone cover Accessories 1 140 140
+Dongle Electronics 1 790 790
+A4 sheets Stationery 200 1 200
+Ball Pens Stationery 2 12 24
+[File: Shopping Bill-26.jpg]
+[File: Shopping Bill-26.jpg]
+Beans Vegetables/Food 1 45 45
+Bread Packed/Food 1 30 30
+Onions Vegetables/Food 0.5 98 49
+Bananas Fruits/Food 6 8 48
+Curd Dairy/Food 1 a2 32
+Milk Dairy/Food a 24 72
+[File: Shopping Bill-27.jpg]
+[File: Shopping Bill-27.jpg]
+Broom Household 1 70 70
+Dustpan Household 1 45 45
+Floor Cleaner Household 1 125 125
+Tissue Paper Household 2 50 100
+[File: Shopping Bill-28.jpg]
+[File: Shopping Bill-28.jpg]
+Face Wash Toiletries 1 89 89
+Shampoo Toiletries 1 140 140
+Maggi Packed/Food 1 85 85
+Chips Packed/Food 1 20 20
+Chocolates Packed/Food 4 10 40
+Air Freshener Toiletries 2 70 140
+[File: Shopping Bill-29.jpg]
+[File: Shopping Bill-29.jpg]
+SV Stores Ahmed 29 )
+Item Category Qty Price Cost
+Chocolates Packed/Food 1 10 10
+Curd Dairy/Food 2 32 64
+Bananas Fruits/Food 4 8 32
+[File: Shopping Bill-30.jpg]
+[File: Shopping Bill-30.jpg]
+Broccoli Vegetables/Food 0.5 120 60
+Chicken Legs Meat/Food 0.5 320 160
+Basa Fish Meat/Food 1 350 350
+Lettuce Vegetables/Food 0.8 150 120
+Eggs Meat/Food 12 9 108
